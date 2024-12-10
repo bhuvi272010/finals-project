@@ -1,0 +1,174 @@
+  body{
+    background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
+  }
+  a{
+    font-size: 30px;
+  }
+  p{
+    font-size:20px;
+  }
+  .text{
+    font-size:.5px;
+  }
+  .def2{
+    position:relative;
+    top:9ch;
+  }
+  h1 {
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(252, 70, 221), 0 0 5px rgb(237, 7, 245);
+  }
+  /*Paragraph of html what is cybersecurity */
+  .Cybersecurity_def{
+    display:flex;
+    width:350px;
+    height:100px;
+    
+  
+ 
+
+  }
+  .What_IS_Cybersecurity{
+    position: relative;
+    bottom:350px;
+    right:10px;
+    float:right;
+    display:flex;
+    flex-grow:9%;
+    border-radius: 25px;
+    background-color: rgb(247, 159, 181);
+    width: 250px;
+    height:200px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+  }
+  .Cybersecurity_text{
+    position:relative;
+    left:180px;
+    width:200px;
+    height: 50px; 
+    background-color: rgb(247, 159, 181);
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+
+      
+  }
+  /* Home page image */
+  .System_hacked_image{
+    width:350px;
+    height:350px;
+    position: relative;
+    bottom:30px;
+    right:70px;
+    float:right;
+    display:flex;
+    flex-grow:9%;
+    border-radius: 25px;
+    background: #000000;
+    padding: 7px;
+    width: 500px;
+    height:250px;
+    background-color: rgb(247, 159, 181);
+    width: 500px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+  }
+    
+      
+  
+  
+  /* What is cybersecurity  image*/
+  
+  /*image of what to do to prevent getting attackes */
+  .top_gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  .bottom_gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    position:relative;
+    left:90px;
+    width: 180px;
+  }
+  .What_You_should_do{
+    display: flex;
+    flex-wrap: wrap;
+    align-content:center;
+    position: relative;
+    top:50px;
+    right:0px;
+    float:right;
+    display:flex;
+    flex-grow:9%;
+    border-radius: 25px;
+    background-color: rgb(247, 159, 181);
+    width: 650px;
+    height:250px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+   
+  }
+  .Why_is_it_important_to_know{
+    width:350px;
+    height:350px;
+    position: relative;
+    right:40px;
+    float:right;
+    display:flex;
+    flex-grow:9%;
+    border-radius: 25px;
+    background: #000000;
+    padding: 7px;
+    width: 500px;
+    height:200px;
+    background-color: rgb(247, 159, 181);
+    width: 500px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+  }
+  .paragraph{
+    position: relative;
+    bottom:30px;
+    left:30px;
+    float:right;
+    background-color: rgb(247, 159, 181);
+    width: 650px;
+    height:200px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+  }
+  @keyframes example {
+    0%   {background-color:rgb(236, 132, 132); left:0px; top:0px;}
+    25%  {background-color:rgb(187, 176, 252); left:200px; top:0px;}
+    50%  {background-color:rgb(245, 177, 146); left:200px; top:200px;}
+    75%  {background-color:rgb(217, 248, 217); left:0px; top:200px;}
+    100% {background-color:rgb(248, 193, 220); left:0px; top:0px;}
+  }
+  .Threats_image{
+    animation-name: example;
+    animation-duration: 4s;
+    position: relative;
+    left:80px;
+    background-color: rgb(247, 159, 181);
+    width: 350px;
+    height: 180px;
+    border: 15px solid rgb(253, 207, 238);
+    padding: 50px;
+    margin: 20px;
+    box-shadow: 10px 10px lightblue;
+  }
+
